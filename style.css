@@ -61,6 +61,13 @@
     margin-left: -35px;
   }
   
+  #key-features {
+    width: 100%;
+    background-color: #ffffff;
+    padding-bottom: 400px;
+  }
+
+  
   a, a:visited, a:hover {
     color: #FC997F;
     text-decoration: none;
