@@ -67,7 +67,7 @@
     padding-bottom: 400px;
   }
 
-  
+
   a, a:visited, a:hover {
     color: #FC997F;
     text-decoration: none;
@@ -79,10 +79,11 @@
 
   #contact-info {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     background-color: #201F6C;
     padding: 15px;
-    text-align: left;
+    text-align: center;
     color: white;
     margin: 0 auto;
+    white-space: nowrap;
   }
