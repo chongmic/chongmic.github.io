@@ -1,12 +1,6 @@
-  :host {
-    font-family: 'proxima-nova', sans-serif;
-    font-size: 14px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-  
   header, body, footer {
     background-color: #201F6C;
+    font-family: 'proxima-nova', sans-serif;
   }
 
   .content {
